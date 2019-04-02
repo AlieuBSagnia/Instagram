@@ -1,0 +1,173 @@
+body{
+    
+}
+
+main{
+    position: relative;
+}
+
+.phone_pic {
+    border: solid gray 1px;
+    display: block;
+    position: absolute;
+    width: 469px;
+    height: 574px;
+    background-image: url("images/phonebase.png"); 
+    top:75px;
+    left:406px;
+    background-repeat:no-repeat;
+    background-size:contain;
+    
+
+}
+
+
+.login_section {
+    border: solid gray 3px;
+    display: inline-block;
+    width: 288px;
+    height: 527px;
+    padding-left: 10px;
+    /*margin-left: 577px;*/
+    top:40px;
+    left:823px;
+    position: absolute;
+    
+   
+}
+
+.footer li{
+
+    border: solid lightblue 1px;
+    height: 200px;
+    width: 943px;
+    position: relative;
+    list-style: none;
+    display: inline;
+    top: 764px;
+    left: 167px;
+    bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: lightblue;
+
+
+}
+
+p{
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 39px;
+}
+
+form {
+    display: -moz-inline-box;
+    margin-top: -65px;
+    margin-left: 62px;
+    width: 10px;
+    position: relative;
+}
+
+
+.logo {
+    border: solid grey 3px;
+    height: 74px;
+    width: 207px;
+    display: inline-block;
+    left: 43px;
+    background-image: url("images/logo.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    position: absolute;
+    top: -2px;
+} 
+
+.login_button{
+    border : solid #3897f0 1px;
+    border-radius:4px; 
+    color: #fff;
+    position: relative;
+    height: 34px;
+    width: 234px;
+    display: inline-block;
+    left: 24px;
+    top: 105px;
+    background-color: #3897f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+.next_button{
+    border : solid #3897f0 1px;
+    border-radius:4px; 
+    color: #fff;
+    position: relative;
+    height: 34px;
+    width: 234px;
+    display: inline-block;
+    left: 24px;
+    top: 146px;
+    background-color: #3897f0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+h5 {
+    margin-block-start: 124px;
+    margin-inline-start: 73px;
+    color: #999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+
+h6{
+    margin-block-start: 18px;
+    margin-inline-start: 61px;
+    color: #999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold; 
+    font-size: 15px
+}
+
+.register{
+    border: solid grey 3px;
+    height: 45px;
+    width: 136px;
+    display: inline-block;
+    left: 1022px;
+    background-image: url("images/badge-android.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    position: absolute;
+    top: 667px;  
+}
+
+.register_two{
+    border: solid grey 3px;
+    height: 45px;
+    width: 136px;
+    display: inline-block;
+    left: 825px;
+    background-image: url("images/badge-iphone.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    position: absolute;
+    top: 666px;  
+
+}
+
+.login{
+    border: solid gray 2px;
+    left:824px;
+    top:589px;
+    position: absolute;
+    display: inline-block;
+    height: 59px;
+    width: 300px;
+}
+
+
