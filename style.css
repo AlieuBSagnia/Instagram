@@ -1,6 +1,4 @@
-body{
-    
-}
+
 
 main{
     position: relative;
@@ -39,8 +37,8 @@ main{
 .footer li{
 
     border: solid lightblue 1px;
-    height: 200px;
-    width: 943px;
+    /*height: 200px;
+    width: 943px; */
     position: relative;
     list-style: none;
     display: inline;
