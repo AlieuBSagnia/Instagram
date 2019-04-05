@@ -3,7 +3,7 @@
 _The Task was to repicate the instagram login page using html and css_
 
 
-![Snapshot of Page](/images/Capture.png)
+![Snapshot of Page](images/Capture.png)
 
 > " Here is a Snapshot of the Page. Borderlines are for reference"
 
