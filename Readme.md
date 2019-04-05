@@ -1,4 +1,4 @@
-#Instagram login/signup page
+# Instagram login/signup page
 
 _The Task was to repicate the instagram login page using html and css_
 
